@@ -26,3 +26,4 @@ appVersion: "1.16.0"
 dependencies:
   - name: nginx
     repository: https://raw.githubusercontent.com/sudharya0506/helm/main
+    version: 0.1.0
